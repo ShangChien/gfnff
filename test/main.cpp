@@ -1,4 +1,4 @@
-#include "gfnff_interface_c.h"
+#include "../include/gfnff_interface_c.h"
 #include <iostream>
 
 void run_singlepoint_test() {
